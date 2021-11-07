@@ -1,0 +1,12 @@
+ul{
+	border: 20px;
+	padding: 10px;
+	margin-left: 20px;
+	display: flex;
+	float: right;
+}
+li{
+	margin: auto;
+	border: 15px;
+	padding: 20px;
+}

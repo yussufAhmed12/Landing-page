@@ -29,6 +29,7 @@ li{
 	margin-right: 500px;
 	display:flex;
 }
-.About{
+#about me{
+	float: left;
 	font-style: normal;
 }

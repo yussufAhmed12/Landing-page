@@ -1,3 +1,14 @@
+h1{
+	font-size: medium;
+	background-color:blue;
+}
+p{
+	font-style: italic;
+	padding-right: 50px;
+}
+
+
+
 ul{
 	border: 20px;
 	padding: 10px;
@@ -9,4 +20,10 @@ li{
 	margin: auto;
 	border: 15px;
 	padding: 20px;
+}
+.image{
+	border-right: 700px;
+	padding-right: 500px;
+	margin-right: 500px;
+	display:flex;
 }

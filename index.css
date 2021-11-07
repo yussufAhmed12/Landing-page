@@ -1,3 +1,7 @@
+* body{
+	background-color: black;
+}
+
 h1{
 	font-size: medium;
 	background-color:blue;
@@ -23,7 +27,7 @@ li{
 }
 .image{
 	border-right: 700px;
-	padding-right: 500px;
+	padding-top: 50px;
 	margin-right: 500px;
 	display:flex;
 }

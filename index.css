@@ -14,7 +14,7 @@ p{
 	padding-right: 50px;
 }
 body{
-	background-image: url(/images.jpeg) !important;
+	background-image: url("/images/images.jpeg") !important;
 	background-repeat: no-repeat;
 	background-size: contain;
 	height: auto;

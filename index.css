@@ -44,6 +44,13 @@ li{
 	float: left;
 	font-style: normal;
 }
-#details{
-	margin-left: 100px;
+.contact{
+	font-style:normal;
+	text-align: justify;
+}
+.big-button{
+	color: blue;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 50px;
 }
